@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 708764626c38c4024a00f176ebd805dd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Body_Animated_0
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2908
+        width: 758
+        height: 860
+      alignment: 9
+      pivot: {x: 0.4506993, y: 0.29276037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45188ac41e4484d85b409e488ef1dfc6
+      internalID: -1292444756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Body_Animated_1
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 2920
+        width: 786
+        height: 953
+      alignment: 9
+      pivot: {x: 0.47805655, y: 0.29488602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725c7a9d20be246df93e191e813072dc
+      internalID: 571082986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Body_Animated_2
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 2951
+        width: 777
+        height: 895
+      alignment: 9
+      pivot: {x: 0.45930424, y: 0.28480545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb397d38f2d744a62bedba14fbcb61b4
+      internalID: -423154695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Body_Animated_3
+      rect:
+        serializedVersion: 2
+        x: 5214
+        y: 2926
+        width: 764
+        height: 869
+      alignment: 9
+      pivot: {x: 0.45484933, y: 0.28498292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc5ca655d8a4932ae4e99b328ddfd5
+      internalID: 2015391425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Body_Animated_4
+      rect:
+        serializedVersion: 2
+        x: 6772
+        y: 2933
+        width: 761
+        height: 859
+      alignment: 9
+      pivot: {x: 0.4508934, y: 0.27913344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad45041ef0ca47e8b64c5c45f88e589
+      internalID: 1055751721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Body_Animated_5
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1975
+        width: 1148
+        height: 460
+      alignment: 9
+      pivot: {x: 0.2896626, y: 0.35626963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80ff20e5da5247fa816b2f36d6d48b2
+      internalID: 1827861093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Body_Animated_6
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 2021
+        width: 1145
+        height: 474
+      alignment: 9
+      pivot: {x: 0.28966242, y: 0.35536537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8cdbdca9c624c6fb1387cbcfc7498e
+      internalID: 1439853401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Body_Animated_7
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 2022
+        width: 1144
+        height: 437
+      alignment: 9
+      pivot: {x: 0.2914399, y: 0.37501675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6e506be4d9848338db2045f0715d74
+      internalID: -491011669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Body_Animated_8
+      rect:
+        serializedVersion: 2
+        x: 5119
+        y: 1990
+        width: 1149
+        height: 451
+      alignment: 9
+      pivot: {x: 0.29985315, y: 0.35340086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266ca0e82b4804216b664c0942304b44
+      internalID: 676848546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Body_Animated_9
+      rect:
+        serializedVersion: 2
+        x: 6674
+        y: 2002
+        width: 1148
+        height: 457
+      alignment: 9
+      pivot: {x: 0.30969495, y: 0.3238747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08990d52de85044119eef2ae227360cc
+      internalID: -1983703398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Boss_Body_Animated_0: -1292444756
+      Boss_Body_Animated_1: 571082986
+      Boss_Body_Animated_2: -423154695
+      Boss_Body_Animated_3: 2015391425
+      Boss_Body_Animated_4: 1055751721
+      Boss_Body_Animated_5: 1827861093
+      Boss_Body_Animated_6: 1439853401
+      Boss_Body_Animated_7: -491011669
+      Boss_Body_Animated_8: 676848546
+      Boss_Body_Animated_9: -1983703398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
